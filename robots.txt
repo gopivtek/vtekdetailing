@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://vtekdetailing.com/sitemap.xml
+Sitemap: https://vtekdetailing.com/sitemap.rss
